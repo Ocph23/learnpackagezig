@@ -1,0 +1,7 @@
+.{
+    .name = .learnpackage,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.15.0",
+    .paths = .{ "build.zig", "easyprint.zig", "build.zig.zon", "Readme.md" },
+    .fingerprint = 0x111b53e3f8c55984,
+}
